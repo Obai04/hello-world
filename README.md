@@ -1,1 +1,2 @@
-I DID EXPLORE GIT AND GitHub
+summary describing the dataset
+The Steel Plates Faults dataset contains 1941 samples of steel plates, each described by 27 numerical features capturing geometric and luminosity characteristics of surface defects. The task is a multiclass classification problem with seven defect categories, including Pastry, Z_Scratch, K_Scratch, Stains, Dirtiness, Bumps, and Other_Faults. The dataset has no missing values and originates from the Semeion Research Center. It is widely used for developing and evaluating machine learning models for industrial defect detection.
